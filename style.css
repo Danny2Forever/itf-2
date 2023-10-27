@@ -58,6 +58,13 @@ main .container{
 
 .username{
     text-align: center;
+
+}
+
+.username p:hover{
+    color: blue;
+    text-decoration: underline;
+
 }
 
 .input-group {

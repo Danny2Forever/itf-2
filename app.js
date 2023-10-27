@@ -8,5 +8,5 @@ const username = () =>{
 }
 
 const profile = () =>{
-    document.getElementById("profile").style.background = "url("+document.getElementById("profile-img").value+")";
+    document.getElementById("profile").style.backgroundImage= "url("+document.getElementById("profile-img").value +")";
 }
